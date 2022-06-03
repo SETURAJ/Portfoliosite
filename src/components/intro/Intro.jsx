@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Intro.css"
-import setu from "../../img/pic2.jpg"
+
 const Intro = () => {
   return (
     <div className="i">

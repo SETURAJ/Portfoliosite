@@ -1,6 +1,6 @@
 import React from 'react'
 import "./product.css"
-import setu from "../../img/pic2.jpg"
+
 const Product = ({img,link,title}) => {
   return (
     <div className="p">

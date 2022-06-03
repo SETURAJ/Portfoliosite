@@ -2,7 +2,7 @@ import React from 'react'
 import "./productList.css"
 import Product from "../product/product"
 import {products} from "../../../src/data"
-import setu from "../../img/pic2.jpg"
+
 const ProductList = () => {
   return (
     <div className="pl">

@@ -1,10 +1,10 @@
-import setu from "./img/pic2.jpg";
-import chatbot from "./img/chatbot.jpg"
-import nft from "./img/nft.jpg"
-import homeservices from "./img/homeservices.png"
-import classroom from "./img/classroom.png"
-import ecommerce from "./img/ecommerce.PNG"
-import socialmedia from "./img/socialmedia.PNG"
+
+import chatbot from "./img/chatbot.webp"
+import nft from "./img/nft.webp"
+import homeservices from "./img/homeservices.webp"
+import classroom from "./img/classroom.webp"
+import ecommerce from "./img/ecommerce.webp"
+import socialmedia from "./img/socialmedia.webp"
 export const products = [
     {
       id: 1,
