@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.32248ac9.chunk.css",
+    "main.js": "/Portfolio/static/js/main.18ee6d96.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.18ee6d96.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.163f731f.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.163f731f.js.map",
+    "static/js/2.a967a45d.chunk.js": "/Portfolio/static/js/2.a967a45d.chunk.js",
+    "static/js/2.a967a45d.chunk.js.map": "/Portfolio/static/js/2.a967a45d.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.32248ac9.chunk.css.map": "/Portfolio/static/css/main.32248ac9.chunk.css.map",
+    "static/js/2.a967a45d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.a967a45d.chunk.js.LICENSE.txt",
+    "static/media/chatbot.6225cb2e.webp": "/Portfolio/static/media/chatbot.6225cb2e.webp",
+    "static/media/classroom.e16a41e8.webp": "/Portfolio/static/media/classroom.e16a41e8.webp",
+    "static/media/ecommerce.eceb5000.webp": "/Portfolio/static/media/ecommerce.eceb5000.webp",
+    "static/media/email.a49e0158.png": "/Portfolio/static/media/email.a49e0158.png",
+    "static/media/github.94b8c704.webp": "/Portfolio/static/media/github.94b8c704.webp",
+    "static/media/gth.950a0763.PNG": "/Portfolio/static/media/gth.950a0763.PNG",
+    "static/media/homeservices.eca8b399.webp": "/Portfolio/static/media/homeservices.eca8b399.webp",
+    "static/media/instagram.7a8a2d01.webp": "/Portfolio/static/media/instagram.7a8a2d01.webp",
+    "static/media/linkedin.eab566e6.webp": "/Portfolio/static/media/linkedin.eab566e6.webp",
+    "static/media/moon.b7d653c7.webp": "/Portfolio/static/media/moon.b7d653c7.webp",
+    "static/media/nft.f9a721b3.webp": "/Portfolio/static/media/nft.f9a721b3.webp",
+    "static/media/pic2.8eb5ef14.webp": "/Portfolio/static/media/pic2.8eb5ef14.webp",
+    "static/media/resume.7790045c.webp": "/Portfolio/static/media/resume.7790045c.webp",
+    "static/media/socialmedia.2413cc0e.webp": "/Portfolio/static/media/socialmedia.2413cc0e.webp",
+    "static/media/sun.8a1b5b38.webp": "/Portfolio/static/media/sun.8a1b5b38.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.163f731f.js",
+    "static/js/2.a967a45d.chunk.js",
+    "static/css/main.32248ac9.chunk.css",
+    "static/js/main.18ee6d96.chunk.js"
+  ]
+}
