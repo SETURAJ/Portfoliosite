@@ -78,21 +78,44 @@ a:hover{
     .c-title {
       font-size: 30px;
     }
+
+    .c-info{
+        flex-direction:row;
+        flex-warp: none;
+        align-items:center;
+        justify-content:center;
+    }
+
+    a{
+        width: 5rem;
+        padding: 0;
+        margin: 0;
+    }
   
     .c-info-item {
-        margin: 20px 0px;
-        width: 100%;
+        /* margin: 20px 0px; */
+        padding:0;
+        margin:0;
+        align-items:center;
+        justify-content:center;
       }
       
     .c-icon{
         display:flex;
         width: 30%;
-        height:80%;
+        height:100%;
         align-items:center;
         
     }
     .c-tag{
         display:none;
     }
-  
+    .a-tag{
+        display: none;
+    }
+    .a-logo{
+        padding: 0.6rem;
+        margin: 0;
+        width: 5rem;
+    }
   }

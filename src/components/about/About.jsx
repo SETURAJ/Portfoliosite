@@ -15,8 +15,8 @@ const About = () => {
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
           HELLO! I am Seturaj Matroja.
-          I'm a Software Developer who builds software and occasionally 
-          a gamer. Currently I'm pursuing my Bachelors in Computer Engineering.
+          I'm a Software Developer who builds software. My hobbies are Gaming and Coding.
+          Currently I'm pursuing my Bachelors in Computer Engineering.
           I have built a lot of projects using various tech stacks. 
 
 

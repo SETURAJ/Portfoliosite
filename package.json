@@ -1,6 +1,7 @@
 {
+  "homepage": "https://SETURAJ.github.io/Portfolio",
   "name": "new",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -17,6 +18,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
