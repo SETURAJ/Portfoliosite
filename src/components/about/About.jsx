@@ -14,13 +14,16 @@ const About = () => {
         <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          HELLO! I am Seturaj Matroja currently working as an intern.
+          HELLO! I am Seturaj Matroja.
+          I'm a Software Developer who builds software and occasionally 
+          a gamer. Currently I'm pursuing my Bachelors in Computer Engineering.
+          I have built a lot of projects using various tech stacks. 
+
+
+          
         </p>
         <p className="a-desc">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-            minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat duis aute irure dolor in reprehende
+            
         </p>
         </div>
     </div>

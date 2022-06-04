@@ -1,11 +1,11 @@
 import React from 'react'
 import "./contact.css"
-import linkedin from "../../img/linkedin.webp"
-import Email from "../../img/email.png"
-import github from "../../img/github.webp"
-import instagram from "../../img/instagram.webp"
-import resume from "../../img/resume.webp"
-
+import linkedin from "../../img/linkedin.webp";
+import Email from "../../img/email.png";
+import github from "../../img/github.webp";
+import instagram from "../../img/instagram.webp";
+import resume from "../../img/resume.webp";
+import gth from "../../img/gth.PNG";
 const Contact = () => {
   return (
     <div className="c">
@@ -21,7 +21,7 @@ const Contact = () => {
                     <a href="https://www.linkedin.com/in/seturaj-matroja-72153721a/" target="_blank" rel="noopener noreferrer" ><h1 className="c-tag">Linkedin</h1></a>
                     </div>
                     <div className="c-info-item">
-                    <a href="https://github.com/SETURAJ" target="_blank" rel="noopener noreferrer" ><img src={github} alt="" className="c-icon" /></a>
+                    <a href="https://github.com/SETURAJ" target="_blank" rel="noopener noreferrer" ><img src={gth} alt="" className="c-icon" /></a>
                     <a href="https://github.com/SETURAJ" target="_blank" rel="noopener noreferrer" ><h1 className="c-tag">Github</h1></a>
                     </div>
                     <div className="c-info-item">
